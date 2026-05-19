@@ -1,4 +1,4 @@
-// infinite craft save manager by krish! (updated to have a better file upload)
+// infinite craft save manager by krish!! (updated to have a better file upload)
 // paste into browser console on neal.fun/infinite-craft
 
 const KEY = 'infinite-craft-data';
