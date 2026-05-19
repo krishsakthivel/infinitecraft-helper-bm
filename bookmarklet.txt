@@ -1,1 +1,1 @@
-javascript:var html = document.querySelector("html"); html.innerHTML = html.innerHTML + "<script src='https://jellofile.github.io/infinitecraft-helper-bm/content.js'></script>";
+javascript:var html = document.querySelector("html"); html.innerHTML = html.innerHTML + "<script src='https://krishsakthivel.github.io/infinitecraft-helper-bm/content.js'></script>";
