@@ -3,4 +3,4 @@ This bookmarklet can be used to import your exported items in Infinite Craft int
 
 ## Usage:
 
-quite literally just go to content.txt, and copy paste what it says into a bookmark. your done :)
+quite literally just go to bookmarklet.txt, and copy paste what it says into a bookmark. your done :)
