@@ -14,7 +14,6 @@ function download(filename, text) {
 }
 
 function showUI() {
-  // remove if already open
   const existing = document.getElementById('krish-save-manager');
   if (existing) { existing.remove(); return; }
 
@@ -25,10 +24,10 @@ function showUI() {
   }
 
   const ui = document.createElement('div');
-  ui.id = 'krish-save-manager';
+  ui.id = 'infinite-save-manager';
   ui.innerHTML = `
     <style>
-      #krish-save-manager {
+      #infinite-save-manager {
         position: fixed;
         top: 50%; left: 50%;
         transform: translate(-50%, -50%);
@@ -159,7 +158,7 @@ function showUI() {
 
     <div id="ksm-card" style="position:relative;">
       <button class="ksm-close" id="ksm-close-btn" title="close">✕</button>
-      <h2>krish.</h2>
+      <h2>infinitecraft helper.</h2>
       <p class="ksm-sub">infinite craft save manager — back up your progress or restore from a file.</p>
 
       <div id="ksm-status">
